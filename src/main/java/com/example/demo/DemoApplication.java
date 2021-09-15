@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello Pipelined Spring Boot ECS v1";
+		return "Hello Pipelined Spring Boot ECS v2";
 	}
 
 }
